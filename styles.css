@@ -3,11 +3,11 @@ body {
     padding: 0;
     font-family: Arial, sans-serif;
     background-color: #324a5f;
-    color: #0c1821;
+    color: #31312e;
 }
 
 header {
-    background-color: #0c1821;
+    background-color: #31312e;
     padding: 20px;
     text-align: center;
 }
@@ -17,7 +17,7 @@ header h1 {
 }
 
 nav a {
-    color: #0c1821;
+    color: #31312e;
     margin: 0 15px;
     text-decoration: none;
 }
@@ -43,7 +43,7 @@ article p {
 }
 
 footer {
-    background-color: #0c1821;
+    background-color: #31312e;
     text-align: center;
     padding: 10px;
     position: fixed;
